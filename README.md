@@ -14,7 +14,9 @@
      - Вычисляем sin(i) и добавляем к current_denominator
      - Вычисляем очередной член ряда как 1 / current_denominator
      - Добавляем этот член к общей сумме sum
-  4. Завершение программы.
+  4. Вывод результата:
+     - printf("Результат: %lf\n", sum);
+  6. Завершение программы.
 - Блок-схема
 <img width="171" height="591" alt="hm8" src="https://github.com/user-attachments/assets/8515dbb4-108a-498f-acb7-637cbd868b7e" />
 
