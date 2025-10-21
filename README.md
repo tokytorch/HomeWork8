@@ -16,6 +16,7 @@
      - Добавляем этот член к общей сумме sum
   4. Завершение программы.
 - Блок-схема
+<img width="171" height="591" alt="hm8" src="https://github.com/user-attachments/assets/8515dbb4-108a-498f-acb7-637cbd868b7e" />
 
 
 # 2. Реализация программы
